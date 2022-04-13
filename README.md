@@ -1,2 +1,0 @@
-# Kota-blog
-kota
